@@ -1,0 +1,196 @@
+Number：NM152740107BR  
+Parcel status：Awaiting seller dispatch
+nation：Mainland China -> Brazil
+
+
+
+======================================
+
+Number：NM152740115BR  
+Parcel status：Warehouse processing
+nation：Mainland China -> Brazil
+
+2024-02-17 19:29:52    Leave the warehouse
+2024-02-17 19:28:31    Package finished
+2024-02-17 10:20:40    Order received successfully
+
+======================================
+
+Number：NM152740124BR  
+Parcel status：Delivering
+nation：Mainland China -> Brazil
+
+2024-02-17 22:47:36    Arrived at departure transport hub
+2024-02-17 16:37:02    Outbound in sorting center
+2024-02-17 16:20:18    Inbound in sorting center
+2024-02-17 16:20:15    Departed from warehouse
+
+======================================
+
+Number：NM152740138BR  
+Parcel status：Warehouse processing
+nation：Mainland China -> Brazil
+
+2024-02-17 15:39:26    Leave the warehouse
+2024-02-17 22:27:29    Arrived at departure transport hub
+2024-02-17 19:52:39    Outbound in sorting center
+2024-02-17 19:42:28    Inbound in sorting center
+2024-02-17 19:12:27    Accepted by carrier
+2024-02-17 15:34:49    Package finished
+2024-02-17 10:20:44    Order received successfully
+
+======================================
+
+Number：NM152740141BR  
+Parcel status：Delivering
+nation：Mainland China -> Brazil
+
+2024-02-17 22:49:47    Arrived at departure transport hub
+2024-02-17 15:25:19    Outbound in sorting center
+2024-02-17 13:06:19    Inbound in sorting center
+2024-02-17 13:06:17    Departed from warehouse
+
+======================================
+
+Number：NM152740155BR  
+Parcel status：Awaiting seller dispatch
+nation：Mainland China -> Brazil
+
+
+
+======================================
+
+Number：NM152740169BR  
+Parcel status：Delivering
+nation：Mainland China -> Brazil
+
+2024-02-17 22:49:47    Arrived at departure transport hub
+2024-02-17 15:24:20    Outbound in sorting center
+2024-02-17 14:46:56    Inbound in sorting center
+2024-02-17 14:46:53    Departed from warehouse
+
+======================================
+
+Number：NM152740172BR  
+Parcel status：Delivering
+nation：Mainland China -> Brazil
+
+2024-02-17 17:53:03    Outbound in sorting center
+2024-02-17 10:59:55    Inbound in sorting center
+2024-02-17 10:59:52    Departed from warehouse
+
+======================================
+
+Number：NM152740186BR  
+Parcel status：Awaiting seller dispatch
+nation：Mainland China -> Brazil
+
+
+
+======================================
+
+Number：NM152740190BR  
+Parcel status：Delivering
+nation：Mainland China -> Brazil
+
+2024-02-17 22:33:31    Arrived at departure transport hub
+2024-02-17 18:47:24    Outbound in sorting center
+2024-02-17 16:47:13    Inbound in sorting center
+2024-02-17 16:47:11    Departed from warehouse
+======================================
+Powered by https://global.cainiao.com
+
+Number：NM152740209BR  
+Parcel status：Delivering
+nation：Mainland China -> Brazil
+
+2024-02-17 22:38:12    Outbound in sorting center
+2024-02-17 10:10:01    Inbound in sorting center
+2024-02-16 21:59:28    Leave the warehouse
+2024-02-17 02:20:59    undefined
+2024-02-16 21:54:53    Package finished
+2024-02-16 15:28:50    Order received successfully
+
+======================================
+
+Number：NM152740212BR  
+Parcel status：Awaiting seller dispatch
+nation：Mainland China -> Brazil
+
+
+
+======================================
+
+Number：NM152740226BR  
+Parcel status：Warehouse processing
+nation：Mainland China -> Brazil
+
+2024-02-17 10:21:09    Order received successfully
+
+======================================
+
+Number：NM152740230BR  
+Parcel status：Warehouse processing
+nation：Mainland China -> Brazil
+
+2024-02-17 10:21:10    Order received successfully
+
+======================================
+
+Number：NM152740243BR  
+Parcel status：Awaiting seller dispatch
+nation：Mainland China -> Brazil
+
+
+
+======================================
+
+Number：NM152740257BR  
+Parcel status：Delivering
+nation：Mainland China -> Brazil
+
+2024-02-17 18:56:05    Inbound in sorting center
+2024-02-17 17:12:57    Accepted by carrier
+2024-02-17 17:12:56    Delivery company has picked up the large shipment
+2024-02-17 15:43:28    Order has been packed into a large shipment and ready for the delivery company to pick up.
+
+======================================
+
+Number：NM152740265BR  
+Parcel status：Delivering
+nation：Mainland China -> Brazil
+
+2024-02-17 22:47:36    Arrived at departure transport hub
+2024-02-17 16:43:10    Outbound in sorting center
+2024-02-17 16:21:23    Inbound in sorting center
+2024-02-17 16:21:22    Departed from warehouse
+
+======================================
+
+Number：NM152740274BR  
+Parcel status：Awaiting seller dispatch
+nation：Mainland China -> Brazil
+
+
+
+======================================
+
+Number：NM152740288BR  
+Parcel status：Delivering
+nation：Mainland China -> Brazil
+
+2024-02-17 22:47:36    Arrived at departure transport hub
+2024-02-17 16:44:19    Outbound in sorting center
+2024-02-17 16:33:15    Inbound in sorting center
+2024-02-17 16:33:13    Departed from warehouse
+
+======================================
+
+Number：NM152740291BR  
+Parcel status：Delivering
+nation：Mainland China -> Brazil
+
+2024-02-17 22:59:04    Inbound in sorting center
+2024-02-17 20:00:42    Order has been packed into a large shipment and ready for the delivery company to pick up.
+======================================
+Powered by https://global.cainiao.com
