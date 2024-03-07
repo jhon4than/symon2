@@ -11,11 +11,11 @@ const GROUP_IDS = [
 // Links correspondentes aos grupos
 const groupLinks = {
     "120363236495256824@g.us": [
-        { label: "🎮SITE", url: "https://primeflix.bet\n\n" },
+        { label: "🎮SITE", url: "https://sshortly1.com/x6VaNf\n\n" },
         { label: "ACESSO AO APP HACKER🛬📲", url: " https://aviator-10x.vercel.app/" }
     ],
     "120363242331328544@g.us": [
-        { label: "🎮SITE", url: "https://primeflix.bet\n\n" },
+        { label: "🎮SITE", url: "https://sshortly1.com/x6VaNf\n\n" },
         { label: "🛩", url: " 💸🔑💥📲" }
     ]
 };
