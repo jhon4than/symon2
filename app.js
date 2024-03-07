@@ -94,9 +94,9 @@ client.on("ready", () => {
     startSendingSignals(); // Inicia o envio de sinais para todos os grupos configurados
 });
 
-client.on('qr', qr => {
-    qrcode.generate(qr, {small: true});
-});
+// client.on('qr', qr => {
+//     qrcode.generate(qr, {small: true});
+// });
 
 client.on("ready", () => {
     console.log("Client is ready!");
